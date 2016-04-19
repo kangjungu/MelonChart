@@ -1,0 +1,6 @@
+framework module Pods_MelonChart {
+  umbrella header "Pods-MelonChart-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (3.3.1)
+  - Gloss (0.7.1)
+  - Realm (0.98.7):
+    - Realm/Headers (= 0.98.7)
+  - Realm/Headers (0.98.7)
+  - RealmSwift (0.98.7):
+    - Realm (= 0.98.7)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.3)
+  - Gloss (~> 0.7)
+  - RealmSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 369bc67b6f5ac33ded3648d7bd21c5bfb91c2ecc
+  Gloss: e674d7aa06a7e292a591d0d39a759b826daf503e
+  Realm: 46df2178359b6b57812e6cf957956febaba513a5
+  RealmSwift: 3056e6d7ad30ed50dd866185a615fccea73db5f5
+
+COCOAPODS: 0.39.0
